@@ -1,0 +1,71 @@
+<ion-content color="light">
+  <ion-header>
+    <ion-toolbar color="danger">
+      <ion-title color="light">
+        AFCI FORMATION
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-grid>
+    <ion-row>
+      <ion-col style="background-color:blue;color:white;border:1px solid white;" size="4">
+        Id
+      </ion-col>
+      <ion-col style="background-color:lightblue;color:white;border:1px solid white;" size="8">
+        <ion-input id="id" style="color:darkblue">
+
+        </ion-input>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col style="background-color:blue;color:white;border:1px solid white;" size="4">
+        Nom
+      </ion-col>
+      <ion-col style="background-color:lightblue;color:white;border:1px solid white;" size="8">
+        <ion-input id="nom" style="color:darkblue">
+
+        </ion-input>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col style="background-color:blue;color:white;border:1px solid white;" size="4">
+        Adresse
+      </ion-col>
+      <ion-col style="background-color:lightblue;color:white;border:1px solid white;" size="8">
+        <ion-input id="adresse" style="color:darkblue">
+
+        </ion-input>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col style="background-color:blue;color:white;border:1px solid white;" size="4">
+        Tel
+      </ion-col>
+      <ion-col style="background-color:lightblue;color:white;border:1px solid white;" size="8">
+        <ion-input id="tel" style="color:darkblue">
+
+        </ion-input>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col style="background-color:blue;color:white;border:1px solid white;" size="4">
+        Email
+      </ion-col>
+      <ion-col style="background-color:lightblue;color:white;border:1px solid white;" size="8">
+        <ion-input id="email" style="color:darkblue">
+
+        </ion-input>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col style="background-color:white;color:white;border:1px solid white;" size="12">
+        <ion-button id="btn" expand="full">
+          Submit
+        </ion-button>
+      </ion-col>
+      
+    </ion-row>
+      
+  </ion-grid>
+
+</ion-content>

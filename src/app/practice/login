@@ -1,0 +1,19 @@
+<ion-content>
+  <ion-card>
+    <img src="./assets/images/burger.jpg">
+  </ion-card>
+  <ion-header>
+    <ion-card-subtitle>
+      S'inscrire maintenant
+    </ion-card-subtitle> 
+    <ion-input placeholder="Nom">
+
+    </ion-input>
+    <ion-input placeholder="Prenom">
+
+    </ion-input>
+    <ion-button expand="full">
+      Login
+    </ion-button>
+  </ion-header>
+</ion-content>

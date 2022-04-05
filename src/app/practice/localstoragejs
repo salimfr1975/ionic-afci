@@ -1,0 +1,17 @@
+window.onload = function()
+{
+    var abc = document.getElementById("btn");
+    abc.onclick = function()
+    {
+        var userid = document.getElementById("id");
+        var usernom = document.getElementById("nom");
+        var useradresse = document.getElementById("adresse");
+        var usertel = document.getElementById("tel");
+        var useremail = document.getElementById("email");
+        localStorage.setItem("myid",userid.value);
+        localStorage.setItem("mynom",usernom.value);
+        localStorage.setItem("myadresse",useradresse.value);
+        localStorage.setItem("mytel",usertel.value);
+        localStorage.setItem("myemail",useremail.value);
+    }
+}

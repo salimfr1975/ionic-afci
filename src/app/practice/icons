@@ -1,0 +1,26 @@
+<ion-content color="white">
+  <ion-grid>
+    <ion-row>
+      <ion-col class="box" >
+        <ion-icon name="arrow-back-circle-sharp"></ion-icon>
+      </ion-col>
+      <ion-col class="box">
+        <ion-icon name="basket-sharp"></ion-icon>
+      </ion-col>
+      <ion-col class="box">
+        <ion-icon name="basketball-sharp"></ion-icon>
+      </ion-col>
+      <ion-col class="box">
+        <ion-icon name="book-sharp"></ion-icon>
+      </ion-col>
+      <ion-col class="box">
+        <ion-icon name="arrow-forward-circle-sharp"></ion-icon>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <div id="container">
+    <img src="./assets/images/electronic.jpg" class="logo">
+  </div>
+</ion-content>
+
+

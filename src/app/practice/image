@@ -1,0 +1,28 @@
+<ion-content>
+  <ion-header>
+    <ion-toolbar>
+      <ion-title>
+        AFCI FORMATION
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-grid>
+    <ion-row>
+      <ion-col size="3">
+        <img src="./assets/images/tv.jpg">
+      </ion-col>
+      <ion-col size="3">
+        <img src="./assets/images/watch.jpg">
+      </ion-col>
+      <ion-col size="6">
+        <img src="./assets/images/laptop.jpg">
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <img src="./assets/images/electronic.jpg">
+      </ion-col>
+    
+    </ion-row>
+  </ion-grid>
+</ion-content>

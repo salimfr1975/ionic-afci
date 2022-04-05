@@ -1,0 +1,14 @@
+<ion-content>
+  <ion-button expand="full" class="ion-margin-start">
+    MARGIN
+  </ion-button>
+  <ion-button expand="full" class="ion-margin-end">
+    MARGIN
+  </ion-button>
+  <ion-button expand="full" class="ion-margin-vertical">
+    MARGIN
+  </ion-button>
+  <ion-button expand="full" class="ion-margin-horizontal">
+    MARGIN
+  </ion-button>
+</ion-content>

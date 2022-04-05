@@ -1,0 +1,32 @@
+<ion-content color="light">
+  <ion-header>
+    <ion-toolbar color="danger">
+      <ion-title color="light">
+        AFCI FORMATION
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-grid>
+    <ion-row>
+
+      <ion-col style="background-color:blue;color:white;border:1px solid white;" size="3">
+        <ion-button id="btn1show">
+          Show
+        </ion-button>
+      </ion-col>
+
+      <ion-col style="background-color:lightblue;color:white;border:1px solid white;" size="6">
+        <img id="img1" src="./assets/images/laptop.jpg" style="display:block">
+      </ion-col>
+      
+      <ion-col style="background-color:blue;color:white;border:1px solid white;" size="3">
+        <ion-button id="btn1hide">
+          Hide
+        </ion-button>
+      </ion-col>
+    </ion-row>
+    
+      
+  </ion-grid>
+
+</ion-content>

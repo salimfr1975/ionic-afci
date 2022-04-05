@@ -1,0 +1,17 @@
+<ion-content color="light">
+  <ion-header>
+    <ion-toolbar color="danger">
+      <ion-title color="light">
+        AFCI FORMATION
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <div id="container">
+    <ion-button shape="round" color="dark" expand="full">
+      Login
+      <ion-icon name="play-circle-sharp" style="font-size:30px;color:red" slot="start">
+
+      </ion-icon>
+    </ion-button>
+  </div>
+</ion-content>
